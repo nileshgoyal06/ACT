@@ -1,4 +1,4 @@
-# 🚀 ACT - Modern React One Page Website
+# 🚀 ACT - Modern React One Page Website for ACT(React Frontend Developer Internship)
 
 A sleek and fully responsive one-page website built using **React.js**, **Tailwind CSS**, and **Vite**. This project showcases a modern frontend architecture with reusable components and clean UI/UX.
 
